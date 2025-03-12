@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact a {
+            display: inline-block;
+            margin: 10px 0;
+            text-decoration: none;
+            color: white;
+            background: #0077B5;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .contact a.email {
+            background: #D14836;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 About Me</h1>
+        <p>Results-driven <strong>Product Analytics Manager</strong> with <strong>7+ years of experience</strong> in product analytics, business analysis, and project management.</p>
+        
+        <h2>🛠️ Tools & Technologies</h2>
+        <ul>
+            <li>Google Analytics, SQL, A/B Testing</li>
+            <li>JIRA, Confluence, UX/UI Collaboration</li>
+            <li>Tableau, Power BI, Excel</li>
+        </ul>
+        
+        <h2>🏆 Key Achievements</h2>
+        <ul>
+            <li>Improved Tableau & Power BI dashboard accuracy by 25%</li>
+            <li>Boosted sales forecast accuracy by 15%</li>
+            <li>Automated workflows, reducing manual work by 20%</li>
+        </ul>
+        
+        <h2>📌 Certifications</h2>
+        <ul>
+            <li>PMP (PMI) - In Progress</li>
+            <li>Google Project Management Certificate</li>
+        </ul>
+        
+        <h2>📬 Contact Me</h2>
+        <div class="contact">
+            <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+            <a href="mailto:your.email@example.com" class="email">Email</a>
+        </div>
+    </div>
+</body>
+</html>
